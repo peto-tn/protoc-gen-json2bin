@@ -1,0 +1,1 @@
+# protoc-gen-json2bin
